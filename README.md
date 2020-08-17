@@ -23,5 +23,10 @@ Examples of using WikiCSSH can be found in the notebooks folder:
 * [Visualize_WikiCSSH.ipynb](./notebooks/Visualize_WikiCSSH.ipynb)
 
 
+## How it was generated
+
+![Algorithm for generating WikiCSSH](https://user-images.githubusercontent.com/112678/90394544-7604ee80-e058-11ea-82c3-14e280aa6905.png)
+
+
 
 
