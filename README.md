@@ -9,6 +9,15 @@ If you are using WikiCSSH please cite the following papers:
 
 Download the WikiCSSH files from: https://doi.org/10.13012/B2IDB-0424970_V1
 
+The data contains the following files:
+
+* WikiCSSH_categories.csv - Categories in WikiCSSH
+* WikiCSSH_category_links.csv - Links between categories in WikiCSSH
+* Wikicssh_core_categories.csv - Core categories as mentioned in the paper
+* WikiCSSH_category_links_all.csv - Links between categories in WikiCSSH (includes a dummy category called <ROOT> which is parent of isolates and top level * categories)
+* WikiCSSH_category2page.csv - Links between Wikipedia pages and Wikipedia Categories in WikiCSSH
+* WikiCSSH_page2redirect.csv - Links between Wikipedia pages and Wikipedia page redirects in WikiCSSH
+
 Examples of using WikiCSSH can be found in the notebooks folder: 
 * [Tagging_using_WikiCSSH.ipynb](./notebooks/Tagging_using_WikiCSSH.ipynb)
 * [Visualize_WikiCSSH.ipynb](./notebooks/Visualize_WikiCSSH.ipynb)
