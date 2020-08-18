@@ -1,5 +1,6 @@
 # WikiCSSH
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 If you are using WikiCSSH please cite the following papers:
 
@@ -7,7 +8,7 @@ If you are using WikiCSSH please cite the following papers:
 
 > Han, Kanyao; Yang, Pingjing; Mishra, Shubhanshu; Diesner, Jana. 2020. "[WikiCSSH - Computer Science Subject Headings from Wikipedia](https://doi.org/10.13012/B2IDB-0424970_V1)." University of Illinois at Urbana-Champaign. [https://doi.org/10.13012/B2IDB-0424970_V1](https://doi.org/10.13012/B2IDB-0424970_V1)
 
-Download the WikiCSSH files from: [https://doi.org/10.13012/B2IDB-0424970_V1](https://doi.org/10.13012/B2IDB-0424970_V1) or from the `data` folder.
+Download the WikiCSSH files from: [https://doi.org/10.13012/B2IDB-0424970_V1](https://doi.org/10.13012/B2IDB-0424970_V1) or from the *[data/v1](./data/v1)* folder.
 
 The data contains the following files:
 
